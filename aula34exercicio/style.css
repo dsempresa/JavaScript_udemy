@@ -1,0 +1,47 @@
+body {
+    font: normal 15pt Arial;
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    margin: auto;
+}
+
+section {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    box-shadow: 2px 5px 2px rgba(0, 0, 0, 0.352);
+}
+
+input {
+    margin-top: 10px;
+}
+
+input.nome {
+    width: 200px;
+}
+
+input.sobrenome {
+    width: 150px;
+}
+
+input.peso {
+    width: 70px;
+}
+
+input.altura {
+    width: 65px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 5px;
+}
